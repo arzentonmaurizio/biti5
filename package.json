@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/arzentonmaurizio/biti5/issues"
   },
-  "homepage": "https://github.com/arzentonmaurizio/biti5#readme"
+  "homepage": "https://github.com/arzentonmaurizio/biti5#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
 }
